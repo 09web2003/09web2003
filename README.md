@@ -5,7 +5,7 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="img/Front-page.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/17h4ck3r11/17h4ck3r11/master/img/Front-page.gif">
 </a>
 <br><br><br><br>
 
